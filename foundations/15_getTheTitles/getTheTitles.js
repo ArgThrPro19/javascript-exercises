@@ -5,7 +5,7 @@ const getTheTitles = function(arr) {
 };
 
 
-//COMPELTE (shoudlhave used √√map)
+//COMPELTE (shoudlhave used map)
 
 // Do not edit below this line
 module.exports = getTheTitles;
